@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shikiro.LearnThrift.Client", "Shikiro.LearnThrift.Client\Shikiro.LearnThrift.Client.csproj", "{6BFAF467-DE5A-4D84-8B0A-2865DA9207FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shikiro.LearnThrift.Server", "Shikiro.LearnThrift.Server\Shikiro.LearnThrift.Server.csproj", "{D85F6E93-E909-4A8A-9675-3238E250EBF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shikiro.LearnThrift.Service.Implementation", "Shikiro.LearnThrift.Service.Implementation\Shikiro.LearnThrift.Service.Implementation.csproj", "{DD124824-B707-4A39-A087-7B8168B9D40F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shikiro.LearnThrift.Service.Interface", "Shikiro.LearnThrift.Service.Interface\Shikiro.LearnThrift.Service.Interface.csproj", "{2E8DED5D-C4F5-4593-A2E2-1945E83E9B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BFAF467-DE5A-4D84-8B0A-2865DA9207FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFAF467-DE5A-4D84-8B0A-2865DA9207FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFAF467-DE5A-4D84-8B0A-2865DA9207FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFAF467-DE5A-4D84-8B0A-2865DA9207FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85F6E93-E909-4A8A-9675-3238E250EBF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85F6E93-E909-4A8A-9675-3238E250EBF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85F6E93-E909-4A8A-9675-3238E250EBF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85F6E93-E909-4A8A-9675-3238E250EBF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD124824-B707-4A39-A087-7B8168B9D40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD124824-B707-4A39-A087-7B8168B9D40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD124824-B707-4A39-A087-7B8168B9D40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD124824-B707-4A39-A087-7B8168B9D40F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E8DED5D-C4F5-4593-A2E2-1945E83E9B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8DED5D-C4F5-4593-A2E2-1945E83E9B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8DED5D-C4F5-4593-A2E2-1945E83E9B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8DED5D-C4F5-4593-A2E2-1945E83E9B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E88F32B7-5DC6-45FF-BEB3-DEB9E3623754}
+	EndGlobalSection
+EndGlobal
